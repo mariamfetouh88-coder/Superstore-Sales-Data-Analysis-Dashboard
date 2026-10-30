@@ -20,7 +20,7 @@ An end-to-end data analysis project exploring the US Superstore dataset using **
 ## 📈 Dashboard Preview
 Here is a sneak peek of the final interactive dark-themed dashboard:
 
-![Superstore Dashboard](<img width="1188" height="593" alt="Superstore_dashboard" src="https://github.com/user-attachments/assets/997826ec-64b8-436b-aebe-2040630ed664" />
+![Superstore Dashboard](Superstore_dashboard
 )
 ---
 
